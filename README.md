@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> **This repository has moved.** The Hub (Rails app) now lives in
+> [`altair-observatory-system/hub`](https://github.com/cecomp64/altair-observatory-system/tree/main/hub),
+> merged with its full history. This repository is archived and read-only; open issues and
+> pull requests there.
+
 # Remote Observatory — Queueing System
 
 The Rails frontend and API for a remote/robotic telescope observing
